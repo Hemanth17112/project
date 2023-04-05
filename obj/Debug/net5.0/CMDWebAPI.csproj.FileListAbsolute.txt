@@ -1,0 +1,363 @@
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\appsettings.json
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\CMDWebAPI.exe
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\CMDWebAPI.deps.json
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\CMDWebAPI.runtimeconfig.json
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\CMDWebAPI.runtimeconfig.dev.json
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\CMDWebAPI.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\ref\CMDWebAPI.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\CMDWebAPI.pdb
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\Microsoft.Azure.Amqp.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\Microsoft.Azure.ServiceBus.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\CMDBusinessLayer.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\CMDDALayer.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\CMDEFLayer.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\Exceptions.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\CMDBusinessLayer.pdb
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\Exceptions.pdb
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\CMDDALayer.pdb
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\bin\Debug\net5.0\CMDEFLayer.pdb
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\obj\Debug\net5.0\CMDWebAPI.csproj.AssemblyReference.cache
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\obj\Debug\net5.0\CMDWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\obj\Debug\net5.0\CMDWebAPI.AssemblyInfoInputs.cache
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\obj\Debug\net5.0\CMDWebAPI.AssemblyInfo.cs
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\obj\Debug\net5.0\CMDWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\obj\Debug\net5.0\CMDWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\obj\Debug\net5.0\CMDWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\obj\Debug\net5.0\scopedcss\bundle\CMDWebAPI.styles.css
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\obj\Debug\net5.0\staticwebassets\CMDWebAPI.StaticWebAssets.Manifest.cache
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\obj\Debug\net5.0\CMDWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\obj\Debug\net5.0\CMDWebAPI.csproj.CopyComplete
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\obj\Debug\net5.0\CMDWebAPI.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\obj\Debug\net5.0\ref\CMDWebAPI.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\obj\Debug\net5.0\CMDWebAPI.pdb
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMD Web API\obj\Debug\net5.0\CMDWebAPI.genruntimeconfig.cache
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\CMDWebAPI.exe
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\CMDWebAPI.deps.json
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\CMDWebAPI.runtimeconfig.json
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\CMDWebAPI.runtimeconfig.dev.json
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\CMDWebAPI.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\ref\CMDWebAPI.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\CMDWebAPI.pdb
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.Azure.Amqp.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.Azure.ServiceBus.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\CMDBusinessLayer.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\CMDDALayer.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\CMDEFLayer.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\Exceptions.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\CMDBusinessLayer.pdb
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\Exceptions.pdb
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\CMDDALayer.pdb
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\bin\Debug\net5.0\CMDEFLayer.pdb
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.csproj.AssemblyReference.cache
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.AssemblyInfoInputs.cache
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.AssemblyInfo.cs
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\obj\Debug\net5.0\scopedcss\bundle\CMDWebAPI.styles.css
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\obj\Debug\net5.0\staticwebassets\CMDWebAPI.StaticWebAssets.Manifest.cache
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.csproj.CopyComplete
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\obj\Debug\net5.0\ref\CMDWebAPI.dll
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.pdb
+C:\Users\Preetham\Documents\capgemini\training\cmd-project-appointment-final\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.genruntimeconfig.cache
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\CMDWebAPI.exe
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\CMDWebAPI.deps.json
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\CMDWebAPI.runtimeconfig.json
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\CMDWebAPI.runtimeconfig.dev.json
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\CMDWebAPI.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\ref\CMDWebAPI.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\CMDWebAPI.pdb
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.Azure.Amqp.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.Azure.ServiceBus.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\CMDBusinessLayer.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\CMDDALayer.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\CMDEFLayer.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\Exceptions.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\CMDBusinessLayer.pdb
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\Exceptions.pdb
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\CMDDALayer.pdb
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\bin\Debug\net5.0\CMDEFLayer.pdb
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.csproj.AssemblyReference.cache
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.AssemblyInfoInputs.cache
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.AssemblyInfo.cs
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\obj\Debug\net5.0\staticwebassets\CMDWebAPI.StaticWebAssets.Manifest.cache
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\obj\Debug\net5.0\staticwebassets\CMDWebAPI.StaticWebAssets.xml
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\obj\Debug\net5.0\scopedcss\bundle\CMDWebAPI.styles.css
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\obj\Debug\net5.0\ref\CMDWebAPI.dll
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.pdb
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.genruntimeconfig.cache
+C:\Users\umesh.s\Desktop\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.csproj.CopyComplete
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\CMDWebAPI.exe
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\CMDWebAPI.deps.json
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\CMDWebAPI.runtimeconfig.json
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\CMDWebAPI.runtimeconfig.dev.json
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\CMDWebAPI.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\ref\CMDWebAPI.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\CMDWebAPI.pdb
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.Azure.Amqp.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.Azure.ServiceBus.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\CMDBusinessLayer.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\CMDDALayer.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\CMDEFLayer.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\Exceptions.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\CMDBusinessLayer.pdb
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\Exceptions.pdb
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\CMDDALayer.pdb
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\bin\Debug\net5.0\CMDEFLayer.pdb
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.csproj.AssemblyReference.cache
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.AssemblyInfoInputs.cache
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.AssemblyInfo.cs
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\obj\Debug\net5.0\staticwebassets\CMDWebAPI.StaticWebAssets.Manifest.cache
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\obj\Debug\net5.0\staticwebassets\CMDWebAPI.StaticWebAssets.xml
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\obj\Debug\net5.0\scopedcss\bundle\CMDWebAPI.styles.css
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.csproj.CopyComplete
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\obj\Debug\net5.0\ref\CMDWebAPI.dll
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.pdb
+C:\Users\Tushar Nikam\Desktop\azure\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.genruntimeconfig.cache
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\appsettings.Development.json
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\appsettings.json
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\CMDWebAPI.exe
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\CMDWebAPI.deps.json
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\CMDWebAPI.runtimeconfig.json
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\CMDWebAPI.runtimeconfig.dev.json
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\CMDWebAPI.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\ref\CMDWebAPI.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\CMDWebAPI.pdb
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\Humanizer.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.Azure.Amqp.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.Azure.ServiceBus.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.Azure.Services.AppAuthentication.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\CMDBusinessLayer.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\CMDDALayer.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\CMDEFLayer.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\Exceptions.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\CMDBusinessLayer.pdb
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\Exceptions.pdb
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\CMDDALayer.pdb
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\bin\Debug\net5.0\CMDEFLayer.pdb
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.csproj.AssemblyReference.cache
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.AssemblyInfoInputs.cache
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.AssemblyInfo.cs
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.csproj.CoreCompileInputs.cache
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\obj\Debug\net5.0\staticwebassets\CMDWebAPI.StaticWebAssets.Manifest.cache
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\obj\Debug\net5.0\staticwebassets\CMDWebAPI.StaticWebAssets.xml
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\obj\Debug\net5.0\scopedcss\bundle\CMDWebAPI.styles.css
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.RazorTargetAssemblyInfo.cache
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.csproj.CopyComplete
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\obj\Debug\net5.0\ref\CMDWebAPI.dll
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.pdb
+E:\skill assure\ConnectMyDoc Project\Web API\team-2\CMDWebAPI\obj\Debug\net5.0\CMDWebAPI.genruntimeconfig.cache

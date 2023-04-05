@@ -1,0 +1,342 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Preetham\\Documents\\capgemini\\training\\cmd-project-appointment-final\\team-2\\CMDWebAPI\\CMD.WebAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Preetham\\Documents\\capgemini\\training\\cmd-project-appointment-final\\team-2\\CMDBusinessLayer\\CMDBusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Preetham\\Documents\\capgemini\\training\\cmd-project-appointment-final\\team-2\\CMDBusinessLayer\\CMDBusinessLayer.csproj",
+        "projectName": "CMDBusinessLayer",
+        "projectPath": "C:\\Users\\Preetham\\Documents\\capgemini\\training\\cmd-project-appointment-final\\team-2\\CMDBusinessLayer\\CMDBusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\Preetham\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Preetham\\Documents\\capgemini\\training\\cmd-project-appointment-final\\team-2\\CMDBusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Preetham\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Preetham\\Documents\\capgemini\\training\\cmd-project-appointment-final\\team-2\\CMDDALayer\\CMDDALayer.csproj": {
+                "projectPath": "C:\\Users\\Preetham\\Documents\\capgemini\\training\\cmd-project-appointment-final\\team-2\\CMDDALayer\\CMDDALayer.csproj"
+              },
+              "C:\\Users\\Preetham\\Documents\\capgemini\\training\\cmd-project-appointment-final\\team-2\\Exceptions\\Exceptions.csproj": {
+                "projectPath": "C:\\Users\\Preetham\\Documents\\capgemini\\training\\cmd-project-appointment-final\\team-2\\Exceptions\\Exceptions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Preetham\\Documents\\capgemini\\training\\cmd-project-appointment-final\\team-2\\CMDDALayer\\CMDDALayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Preetham\\Documents\\capgemini\\training\\cmd-project-appointment-final\\team-2\\CMDDALayer\\CMDDALayer.csproj",
+        "projectName": "CMDDALayer",
+        "projectPath": "C:\\Users\\Preetham\\Documents\\capgemini\\training\\cmd-project-appointment-final\\team-2\\CMDDALayer\\CMDDALayer.csproj",
+        "packagesPath": "C:\\Users\\Preetham\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Preetham\\Documents\\capgemini\\training\\cmd-project-appointment-final\\team-2\\CMDDALayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Preetham\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Preetham\\Documents\\capgemini\\training\\cmd-project-appointment-final\\team-2\\CMDEFLayer\\CMDEFLayer.csproj": {
+                "projectPath": "C:\\Users\\Preetham\\Documents\\capgemini\\training\\cmd-project-appointment-final\\team-2\\CMDEFLayer\\CMDEFLayer.csproj"
+              },
+              "C:\\Users\\Preetham\\Documents\\capgemini\\training\\cmd-project-appointment-final\\team-2\\Exceptions\\Exceptions.csproj": {
+                "projectPath": "C:\\Users\\Preetham\\Documents\\capgemini\\training\\cmd-project-appointment-final\\team-2\\Exceptions\\Exceptions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Preetham\\Documents\\capgemini\\training\\cmd-project-appointment-final\\team-2\\CMDEFLayer\\CMDEFLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Preetham\\Documents\\capgemini\\training\\cmd-project-appointment-final\\team-2\\CMDEFLayer\\CMDEFLayer.csproj",
+        "projectName": "CMDEFLayer",
+        "projectPath": "C:\\Users\\Preetham\\Documents\\capgemini\\training\\cmd-project-appointment-final\\team-2\\CMDEFLayer\\CMDEFLayer.csproj",
+        "packagesPath": "C:\\Users\\Preetham\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Preetham\\Documents\\capgemini\\training\\cmd-project-appointment-final\\team-2\\CMDEFLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Preetham\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Azure.Services.AppAuthentication": {
+              "target": "Package",
+              "version": "[1.6.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Preetham\\Documents\\capgemini\\training\\cmd-project-appointment-final\\team-2\\CMDWebAPI\\CMD.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Preetham\\Documents\\capgemini\\training\\cmd-project-appointment-final\\team-2\\CMDWebAPI\\CMD.WebAPI.csproj",
+        "projectName": "CMD.WebAPI",
+        "projectPath": "C:\\Users\\Preetham\\Documents\\capgemini\\training\\cmd-project-appointment-final\\team-2\\CMDWebAPI\\CMD.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\Preetham\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Preetham\\Documents\\capgemini\\training\\cmd-project-appointment-final\\team-2\\CMDWebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Preetham\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Preetham\\Documents\\capgemini\\training\\cmd-project-appointment-final\\team-2\\CMDBusinessLayer\\CMDBusinessLayer.csproj": {
+                "projectPath": "C:\\Users\\Preetham\\Documents\\capgemini\\training\\cmd-project-appointment-final\\team-2\\CMDBusinessLayer\\CMDBusinessLayer.csproj"
+              },
+              "C:\\Users\\Preetham\\Documents\\capgemini\\training\\cmd-project-appointment-final\\team-2\\Exceptions\\Exceptions.csproj": {
+                "projectPath": "C:\\Users\\Preetham\\Documents\\capgemini\\training\\cmd-project-appointment-final\\team-2\\Exceptions\\Exceptions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Azure.ServiceBus": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "Microsoft.Azure.Services.AppAuthentication": {
+              "target": "Package",
+              "version": "[1.6.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Preetham\\Documents\\capgemini\\training\\cmd-project-appointment-final\\team-2\\Exceptions\\Exceptions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Preetham\\Documents\\capgemini\\training\\cmd-project-appointment-final\\team-2\\Exceptions\\Exceptions.csproj",
+        "projectName": "Exceptions",
+        "projectPath": "C:\\Users\\Preetham\\Documents\\capgemini\\training\\cmd-project-appointment-final\\team-2\\Exceptions\\Exceptions.csproj",
+        "packagesPath": "C:\\Users\\Preetham\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Preetham\\Documents\\capgemini\\training\\cmd-project-appointment-final\\team-2\\Exceptions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Preetham\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
